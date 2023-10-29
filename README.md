@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ✌ , I'm Mahmoud Yousef And I'm A Python Developer </h2>
 
 <div align="center" width="50">
 
@@ -25,4 +25,3 @@ Happy Coding! 😊
 </div>
 
 
-⭐ From [ABSphreak](https://github.com/ABSphreak)
