@@ -15,7 +15,7 @@ Happy Coding! 😊
 
 
 
-<i>Follow me:</i><br>
+<i> me:</i><br>
 
 <a href="https://www.linkedin.com/in/mahmoud-yousef-9a5869232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/m.yousef_2000/?hl=en-gb" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
