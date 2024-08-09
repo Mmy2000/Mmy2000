@@ -9,19 +9,36 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Developer with expertis
 
 ## 📊 Languages & Tools
 
-I work with a diverse set of programming languages and tools. Below is a glimpse of the technologies I frequently use in my projects:
+I specialize in a diverse array of programming languages, frameworks, and tools. Here's a snapshot of the technologies I frequently work with:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmy2000&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmy2000&layout=compact&theme=material-palenight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-### 🔧 Tools & Frameworks
+### 🔧 Frameworks, Libraries & Tools
 
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Django, Python, Node.js
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Version Control:** Git, GitHub
-- **Deployment:** Docker, Heroku, AWS
+- **Frontend:**
+  - **Languages:** JavaScript, TypeScript, HTML, CSS
+  - **Frameworks:** React, Next.js
+  - **Styling:** Tailwind CSS, Styled Components, SASS
+
+- **Backend:**
+  - **Languages:** Python, JavaScript
+  - **Frameworks:** Django, Node.js, Express.js
+
+- **Databases:**
+  - **Relational:** PostgreSQL, MySQL, SQLite
+  - **NoSQL:** MongoDB
+
+- **DevOps & Deployment:**
+  - **Platforms:** Docker, Kubernetes, Heroku, AWS
+  - **CI/CD:** GitHub Actions, Jenkins
+
+- **Version Control:** Git, GitHub, GitLab
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
 
 <div align="center">
 
