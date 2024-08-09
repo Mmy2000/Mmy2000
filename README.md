@@ -7,11 +7,21 @@
 
 Welcome to my GitHub profile! I'm a passionate Fullstack Developer with expertise in Django and React. I love building innovative solutions and am always eager to collaborate on exciting projects. Feel free to explore my repositories, clone projects, and contribute your ideas.
 
-## 📊 Most Used Languages
+## 📊 Languages & Tools
+
+I work with a diverse set of programming languages and tools. Below is a glimpse of the technologies I frequently use in my projects:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmy2000&layout=compact&theme=dracula" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmy2000&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </div>
+
+### 🔧 Tools & Frameworks
+
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Django, Python, Node.js
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Version Control:** Git, GitHub
+- **Deployment:** Docker, Heroku, AWS
 
 <div align="center">
 
