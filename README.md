@@ -37,7 +37,7 @@ I specialize in a diverse array of programming languages, frameworks, and tools.
 - **Version Control:** Git, GitHub, GitLab
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mmy2000&theme=flat&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
