@@ -7,6 +7,12 @@
 
 Welcome to my GitHub profile! I'm a passionate Fullstack Developer with expertise in Django and React. I love building innovative solutions and am always eager to collaborate on exciting projects. Feel free to explore my repositories, clone projects, and contribute your ideas.
 
+## 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula" alt="Most Used Languages" />
+</div>
+
 <div align="center">
 
 Let's connect and create something amazing together!
@@ -18,6 +24,3 @@ Let's connect and create something amazing together!
 </div>
 
 Happy Coding! 😊
-
-
-
