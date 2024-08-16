@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Developer with expertis
 I specialize in a diverse array of programming languages, frameworks, and tools. Here's a snapshot of the technologies I frequently work with:
 
 <div align="center">
-  <img width="100%" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmy2000&layout=compact&theme=material-palenight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="80%" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmy2000&layout=compact&theme=material-palenight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ### 🔧 Frameworks, Libraries & Tools
