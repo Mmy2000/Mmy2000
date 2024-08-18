@@ -1,5 +1,5 @@
 <h2 align="center">Hello there ✌, I'm Mahmoud Yousef</h2>
-<h3 align="center">Fullstack Developer | Python Expert (Django & React)</h3>
+<h3 align="center">Fullstack Developer | Python Expert (Djang & React)</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Welcome!" width="400"/>
