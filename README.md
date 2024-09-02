@@ -7,10 +7,6 @@
 
 Welcome to my GitHub profile! I'm a passionate Fullstack Developer with expertise in Django and React. I love building innovative solutions and am always eager to collaborate on exciting projects. Feel free to explore my repositories, clone projects, and contribute your ideas.
 
-## 📊 Languages & Tools
-
-I specialize in a diverse array of programming languages, frameworks, and tools. Here's a snapshot of the technologies I frequently work with:
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mmy_2000&theme=dark&hide_border=false)<br/>
 
